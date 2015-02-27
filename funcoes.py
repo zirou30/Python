@@ -25,3 +25,5 @@ while n1 > n2:
         break
 if n2 > n1:
     print("O segundo número é maior.")
+else:
+    print("Ambos os números são iguais.")
