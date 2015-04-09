@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import binascii, sys, time
+import sys, time
 
 def main():
     print "Shell Encode"
