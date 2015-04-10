@@ -4,7 +4,7 @@ import sys, time
 
 def main():
     print "Shell Encode"
-    inputtype = raw_input("Por favor insera os dados: ")
+    inputtype = raw_input("Por favor insira os dados: ")
     print "shellcode => ",
     for encoded in inputtype:
         print "\b\\x"+encoded.encode("hex"),
