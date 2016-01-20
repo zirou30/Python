@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #Coded by Zirou
-#tt @ZirouAnon
+#tt @Z3rou
 #Donate BTC 17ZvB3cM1mmvQuTbXjokkpdDSyMffJ9T8g
 
 import sys, time
